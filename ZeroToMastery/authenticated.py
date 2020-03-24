@@ -5,10 +5,17 @@ user1 = {
     'valid' : True # changing this will either run or not runthe message_friends function
 }
 
+user2 = {
+    'name' : 'Dwight',
+    'valid' : False
+}
+
 def authenticated(fn):
     def wrapper(*args, **kwargs):
         if args[0]['valid']:
             return fn(*args, **kwargs)
+        else:
+            print(f'You are not authorized!ttps://www.google.com')
     return wrapper
 
 @authenticated
@@ -16,3 +23,4 @@ def message_friends(user):
     print('message has been sent')
 
 message_friends(user1)
+message_friends(user2)
