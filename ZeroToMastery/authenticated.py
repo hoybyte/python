@@ -15,7 +15,7 @@ def authenticated(fn):
         if args[0]['valid']:
             return fn(*args, **kwargs)
         else:
-            print(f'You are not authorized!ttps://www.google.com')
+            print(f'You are not authorized!')
     return wrapper
 
 @authenticated
