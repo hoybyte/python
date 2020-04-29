@@ -11,3 +11,11 @@ language = input(f"What language do you want the file, {file_path}, to be transl
 
 print(file_path)
 print(language)
+
+try:
+    with open(file_path, mode='r') as my_file:
+        print(my_file.readlines())
+except FileNotFoundError as err:
+    print('File does not exist')
+    raise
+
