@@ -6,19 +6,19 @@ from pathlib import Path
 from translate import Translator
 
 translator = Translator(to_lang='es')
-file_path = Path(input("What file do you want translated?"))
-
+file_path = ((input(r"What file do you want translated?")))
+test_path = r'C:\Github\test.txt'
 language = input(f"What language do you want the file, {file_path}, to be translated to:  ")
+
 
 print(file_path)
 print(language)
 
-# try:
-#     with open(file_path, mode='r') as my_file:
-#         print(my_file.readlines())
-# except FileNotFoundError as err:
-#     print('File does not exist')
-#     raise
+f = open(r"C:\Github\test.txt")
+content = f.read()
+print(content)
+f.close()
+
 
 translation = translator.translate("This is my Name")
 print(translation)
