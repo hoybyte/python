@@ -6,4 +6,5 @@ def checkDriverAge(age=0):
     elif int(age) == 18:
         print("Congratulations on your first year of driving. Enjoy the ride!")
 
+
 checkDriverAge(18)
