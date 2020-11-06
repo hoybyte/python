@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+        version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <title>Talk Python To Me</title>
+        <description>Talk Python to Me is a weekly podcast hosted by developer and
+            entrepreneur Michael Kennedy. We dive deep into the popular packages
+            and software developers, data scientists, and incredible hobbyists doing
+            amazing things with Python. If you're new to Python, you'll quickly learn
+            the ins and outs of the community by hearing from the leaders. And if
+            you've been Pythoning for years, you'll learn about
+            your favorite packages and the hot new ones coming out of open source.
+        </description>
+        <link>https://talkpython.fm/</link>
+        <language>en-us</language>
+        <copyright>Copyright 2015-2020</copyright>
+        <lastBuildDate>Sat, 31 Oct 2020 00:00:00 -0800</lastBuildDate>
+        <pubDate>Sat, 31 Oct 2020 00:00:00 -0800</pubDate>
+        <docs>https://talkpython.fm</docs>
+        <webMaster>talkpythontome@michaelckennedy.net (Michael Kennedy)</webMaster>
+        <ttl>60</ttl>
+        <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+        <itunes:subtitle>Python conversations for passionate developers</itunes:subtitle>
+        <itunes:summary>Talk Python to Me is a weekly podcast hosted by developer and
+            entrepreneur Michael Kennedy. We dive deep into the popular packages
+            and software developers, data scientists, and incredible hobbyists doing
+            amazing things with Python. If you're new to Python, you'll quickly learn
+            the ins and outs of the community by hearing from the leaders. And if
+            you've been Pythoning for years, you'll learn about
+            your favorite packages and the hot new ones coming out of open source.
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>Michael Kennedy</itunes:name>
+            <itunes:email>mikeckennedy@gmail.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:image href="https://talkpython.fm/static/img/podcast-theme-img_1400_v3.png"/>
+        <itunes:category text="Technology" />
+        <atom:link href="https://talkpython.fm/episodes/rss" rel="self" type="application/rss+xml"/>
+
+        <itunes:type>episodic</itunes:type>
+
+        <item>
+            <title>#288 10 tips to move from Excel to Python</title>
+            <link>https://talkpython.fm/episodes/show/288/10-tips-to-move-from-excel-to-python</link>
+            <guid>088a2aba-c925-4966-be73-2fef56030d95</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/288/10-tips-to-move-from-excel-to-python.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 31 Oct 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>10 tips to move from Excel to Python</itunes:title>
+            <itunes:episode>288</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Excel is one of the most used and most empowering piece of software out there. But that doesn't make it a good fit for every data processing need. And when you outgrow Excel, a really good option for a next step is Python and the data science tech stack: Pandas, Jupyter, and friends.</itunes:summary>
+            <itunes:duration>01:03:23</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Excel is one of the most used and most empowering piece of software out there. But that doesn't make it a good fit for every data processing need. And when you outgrow Excel, a really good option for a next step is Python and the data science tech stack: Pandas, Jupyter, and friends. &lt;br/&gt;
+&lt;br/&gt;
+Chris Moffitt is back on Talk Python to give us concrete tips and tricks for moving from Excel to Python!&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Chris on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/chris1610" target="_blank" rel="noopener"&gt;@chris1610&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Practical Business Python&lt;/b&gt;: &lt;a href="https://pbpython.com" target="_blank" rel="noopener"&gt;pbpython.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Escaping Excel Hell with Python and Pandas Episode 200&lt;/b&gt;: &lt;a href="https://talkpython.fm/200" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;SideTable package&lt;/b&gt;: &lt;a href="https://pbpython.com/sidetable.html" target="_blank" rel="noopener"&gt;pbpython.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Learn more and go deeper&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Move from Excel to Python with Pandas Course&lt;/b&gt;: &lt;a href="/excel" target="_blank" rel="noopener"&gt;training.talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Excel to Python webcast&lt;/b&gt;: &lt;a href="https://talkpython.fm/excel-webcast" target="_blank" rel="noopener"&gt;crowdcast.io&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/voyager'&gt;Voyager game&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#287 Testing without dependencies, mocking in Python</title>
+            <link>https://talkpython.fm/episodes/show/287/testing-without-dependencies-mocking-in-python</link>
+            <guid>1f88487c-01a6-4a2e-9e72-d950459def85</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/287/testing-without-dependencies-mocking-in-python.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Wed, 21 Oct 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Testing without dependencies, mocking in Python</itunes:title>
+            <itunes:episode>287</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>We know our unit tests should be relatively independent from other parts of the system. For example, running a test shouldn't generally call a credit card possessing API and talk to a database when your goal is just to test the argument validation.</itunes:summary>
+            <itunes:duration>01:03:29</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>We know our unit tests should be relatively independent from other parts of the system. For example, running a test shouldn't generally call a credit card possessing API and talk to a database when your goal is just to test the argument validation. &lt;br/&gt;
+&lt;br/&gt;
+And yet, your method does all three of those and more. What do you do? Some languages use elaborate dependency passing frameworks that go under the banner of inversion of control (IoC) and dependency injections (DI). In Python, the most common fix is to temporarily redefine what those two functions do using patching and mocking.&lt;br/&gt;
+&lt;br/&gt;
+On this episode, we welcome back Anna-Lena Pokes to talk us through the whole spectrum of test doubles, dummies, mocks, and more.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Anna-Lena's personal site&lt;/b&gt;: &lt;a href="http://alpopkes.com/" target="_blank" rel="noopener"&gt;alpopkes.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;100 Days of Code episode&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/186/100-days-of-python-in-a-magical-universe" target="_blank" rel="noopener"&gt;talkpython.fm/186&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Anna-Lena on Github&lt;/b&gt;: &lt;a href="https://github.com/zotroneneis" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyCon talk from Lisa Road (2018) - “Demystifying the patch function”&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=ww1UsGZV8fQ" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyCon talk from Edwin Jung (2019) - Mocking and Patching Pitfalls&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=Ldlz4V-UCFw" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Keynote talk “Finding Magic in Python” (about magical universe&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;project)&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=Kf92pycivt4" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Blog post about mocking in Python&lt;/b&gt;: &lt;a href="http://alpopkes.com/posts/2020/10/mocking-in-python/" target="_blank" rel="noopener"&gt;alpopkes.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Stackoverflow post on difference between stubs and mocks&lt;/b&gt;: &lt;a href="https://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub" target="_blank" rel="noopener"&gt;stackoverflow.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Freezegun project&lt;/b&gt;: &lt;a href="https://github.com/spulec/freezegun" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;KI Macht Schule (AI goes to school)&lt;/b&gt;: &lt;a href="https://ki-macht-schule.de/" target="_blank" rel="noopener"&gt;ki-macht-schule.de&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Code Combat&lt;/b&gt;: &lt;a href="https://codecombat.com/" target="_blank" rel="noopener"&gt;codecombat.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PDB++&lt;/b&gt;: &lt;a href="https://github.com/pdbpp/pdbpp" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fmhttps://monday.com/python'&gt;Monday.com&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#286 Python and ML at NASA Jet Propulsion Laboratory (JPL)</title>
+            <link>https://talkpython.fm/episodes/show/286/python-and-ml-at-nasa-jet-propulsion-laboratory-jpl</link>
+            <guid>2e42453c-eb70-499c-94f8-38156f39b2f5</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/286/python-and-ml-at-nasa-jet-propulsion-laboratory-jpl.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 16 Oct 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Python and ML at NASA Jet Propulsion Laboratory (JPL)</itunes:title>
+            <itunes:episode>286</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>NASA's Jet Propulsion Laboratory (JPL)'s primary function is the construction and operation of planetary robotic spacecraft, though it also conducts Earth- orbit and astronomy missions. It is also responsible for operating NASA's Deep Space Network.</itunes:summary>
+            <itunes:duration>01:07:32</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>NASA's Jet Propulsion Laboratory (JPL)'s primary function is the construction and operation of planetary robotic spacecraft, though it also conducts Earth-orbit and astronomy missions. It is also responsible for operating NASA's Deep Space Network.  &lt;br/&gt;
+&lt;br/&gt;
+On this episode, you'll meet Chris Mattman. He's the Division Manager for the Artificial Intelligence, Analytics and Innovation at NASA JPL and he's JPL's first Principal Scientist in the area of Data Science. We cover a wide range of topics, and dive into how Python and open-source are growing in the space exploration field. And he answers the question of whether he thinks we'll have Python running on robots and rovers in space.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Chris on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/chrismattmann" target="_blank" rel="noopener"&gt;@chrismattmann&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Chris at JPL&lt;/b&gt;: &lt;a href="https://scienceandtechnology.jpl.nasa.gov/dr-chris-mattmann" target="_blank" rel="noopener"&gt;jpl.nasa.gov&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Nature: A vision for data science&lt;/b&gt;: &lt;a href="https://www.nature.com/articles/493473a" target="_blank" rel="noopener"&gt;nature.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Open source at JPL&lt;/b&gt;: &lt;a href="https://github.com/nasa-jpl" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Apache Nutch&lt;/b&gt;: &lt;a href="https://nutch.apache.org/" target="_blank" rel="noopener"&gt;nutch.apache.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;7 Minutes of Terror: The Challenges of Getting to Mars&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=Ki_Af_o9Q9s" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;tqdm package&lt;/b&gt;: &lt;a href="https://pypi.org/project/tqdm/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Panama Papers&lt;/b&gt;: &lt;a href="https://en.wikipedia.org/wiki/Panama_Papers" target="_blank" rel="noopener"&gt;wikipedia.org&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fmhttps://monday.com/python'&gt;Monday.com&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#285 Dask as a Platform Service with Coiled</title>
+            <link>https://talkpython.fm/episodes/show/285/dask-as-a-platform-service-with-coiled</link>
+            <guid>5a27efbe-837f-43c0-a1d3-a0ae6bd795c1</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/285/dask-as-a-platform-service-with-coiled.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 09 Oct 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Dask as a Platform Service with Coiled</itunes:title>
+            <itunes:episode>285</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>If you're into data science, you've probably heard about Dask. It's a package that feels like familiar APIs such as Numpy, Pandas, and Scikit-Learn. Yet it can scale that computation across CPU cores on your local machine all the way to distributed grid-based computing in large clusters.</itunes:summary>
+            <itunes:duration>01:11:04</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>If you're into data science, you've probably heard about Dask. It's a package that feels like familiar APIs such as Numpy, Pandas, and Scikit-Learn. Yet it can scale that computation across CPU cores on your local machine all the way to distributed grid-based computing in large clusters. &lt;br/&gt;
+&lt;br/&gt;
+While powerful, this may take some serious setup to execute in its full glory. That's why Matthew Rocklin has teamed up with Hugo Bowne-Anderson and others to launch a business to help Python loving data scientists run Dask workloads in the cloud. And they are here to tell us about they open-source foundation business.&lt;br/&gt;
+&lt;br/&gt;
+And they must be on to something, between recording and releasing this episode, they raised $5M in VC funding.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Hugo on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/hugobowne" target="_blank" rel="noopener"&gt;@hugobowne&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Matthew on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/mrocklin" target="_blank" rel="noopener"&gt;@mrocklin&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Coiled&lt;/b&gt;: &lt;a href="https://coiled.io/" target="_blank" rel="noopener"&gt;coiled.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Coiled raised $5M in Sept&lt;/b&gt;: &lt;a href="https://twitter.com/mrocklin/status/1310967351198715905" target="_blank" rel="noopener"&gt;twitter.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;A brief history of dask article&lt;/b&gt;: &lt;a href="https://coiled.io/blog/history-dask/" target="_blank" rel="noopener"&gt;coiled.io/blog&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Coiled: Dask for Everyone, Everywhere&lt;/b&gt;: &lt;a href="https://medium.com/coiled-hq/coiled-dask-for-everyone-everywhere-376f5de0eff4" target="_blank" rel="noopener"&gt;medium.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;The incredible growth of python&lt;/b&gt;: &lt;a href="https://stackoverflow.blog/2017/09/06/incredible-growth-python/" target="_blank" rel="noopener"&gt;stackoverflow.blog&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Growth updated (SO Trends current)&lt;/b&gt;: &lt;a href="https://insights.stackoverflow.com/trends?tags=java%2Cpython%2Cc%23%2Cvb.net%2Cjavascript%2Cruby%2Cswift" target="_blank" rel="noopener"&gt;insights.stackoverflow.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Coiled Youtube channel&lt;/b&gt;: &lt;a href="https://www.youtube.com/channel/UCJ91YSc5zjEwtIsmrZwFhKg" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Snorkel package&lt;/b&gt;: &lt;a href="https://pypi.org/project/snorkel/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fmhttps://monday.com/python'&gt;Monday.com&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#284 Modern and fast APIs with FastAPI</title>
+            <link>https://talkpython.fm/episodes/show/284/modern-and-fast-apis-with-fastapi</link>
+            <guid>d08bde64-090e-4112-8f9e-d9088668e4d8</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/284/modern-and-fast-apis-with-fastapi.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sun, 04 Oct 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Modern and fast APIs with FastAPI</itunes:title>
+            <itunes:episode>284</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>As Python 3 has eclipsed the old constrains of Python 2 and web frameworks that adopted them, we have seen a big jump in new frameworks appearing on the scene taking full advantage of things like type hints, async and await, and more.</itunes:summary>
+            <itunes:duration>01:06:06</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>As Python 3 has eclipsed the old constrains of Python 2 and web frameworks that adopted them, we have seen a big jump in new frameworks appearing on the scene taking full advantage of things like type hints, async and await, and more.  &lt;br/&gt;
+&lt;br/&gt;
+No framework has done this more successfully than FastAPI recently. That's why we are here with the creator of FastAPI, Sebastián Ramírez to dive into this exciting new Python web framework.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Sebastian&lt;/b&gt;: &lt;a href="https://twitter.com/tiangolo" target="_blank" rel="noopener"&gt;@tiangolo&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FastAPI&lt;/b&gt;: &lt;a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener"&gt;fastapi.tiangolo.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FastAPI: One of the fastest Python frameworks available&lt;/b&gt;: &lt;a href="https://fastapi.tiangolo.com/#performance" target="_blank" rel="noopener"&gt;fastapi.tiangolo.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FastAPI for Flask Users&lt;/b&gt;: &lt;a href="https://amitness.com/2020/06/fastapi-vs-flask/" target="_blank" rel="noopener"&gt;amitness.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FastAPI Docker image:  https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;ujson&lt;/b&gt;: &lt;a href="https://github.com/esnme/ultrajson" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;uvicorn&lt;/b&gt;: &lt;a href="http://www.uvicorn.org" target="_blank" rel="noopener"&gt;uvicorn.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Traffic server&lt;/b&gt;: &lt;a href="https://docs.traefik.io/" target="_blank" rel="noopener"&gt;docs.traefik.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Starlette&lt;/b&gt;: &lt;a href="https://www.starlette.io/" target="_blank" rel="noopener"&gt;starlette.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Pydantic&lt;/b&gt;: &lt;a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noopener"&gt;pydantic-docs.helpmanual.io&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#283 Web scraping, the 2020 edition</title>
+            <link>https://talkpython.fm/episodes/show/283/web-scraping-the-2020-edition</link>
+            <guid>e70d2450-826c-43da-85c3-e3f38b17e501</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/283/web-scraping-the-2020-edition.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Wed, 23 Sep 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Web scraping, the 2020 edition</itunes:title>
+            <itunes:episode>283</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Web scraping is pulling the HTML of a website down and parsing useful data out of it. The use-cases for this type of functionality are endless. Have a bunch of data on governmental sites that are only listed online in HTML without a download? There's an API for that! Do you want to keep abreast of what your competitors are featuring on their site? There's an API for that. Need alerts for changes on a website, for example enrollment is now open at your college and you want to be first to get in and avoid the 8am Monday morning course slot? There's an API for that.</itunes:summary>
+            <itunes:duration>48:34</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Web scraping is pulling the HTML of a website down and parsing useful data out of it. The use-cases for this type of functionality are endless. Have a bunch of data on governmental sites that are only listed online in HTML without a download? There's an API for that! Do you want to keep abreast of what your competitors are featuring on their site? There's an API for that. Need alerts for changes on a website, for example enrollment is now open at your college and you want to be first to get in and avoid the 8am Monday morning course slot? There's an API for that. &lt;br/&gt;
+&lt;br/&gt;
+That API is screen scraping and Attila Tóth from ScrapingHub is here to tell us all about it.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Attila Tóth on LinkedIn&lt;/b&gt;: &lt;a href="https://www.linkedin.com/in/attilapm/" target="_blank" rel="noopener"&gt;linkedin.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Scrapy project&lt;/b&gt;: &lt;a href="https://scrapy.org/" target="_blank" rel="noopener"&gt;scrapy.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Scrapinghub on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/scrapinghub" target="_blank" rel="noopener"&gt;@scrapinghub&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Scrapinghub&lt;/b&gt;: &lt;a href="https://www.scrapinghub.com/" target="_blank" rel="noopener"&gt;scrapinghub.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;cookiecutter template for Scrapy projects&lt;/b&gt;: &lt;a href="https://github.com/zachwill/cookiecutter-scrapy" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Splash: headless browser designed specifically for web scraping&lt;/b&gt;: &lt;a href="https://www.scrapinghub.com/splash/" target="_blank" rel="noopener"&gt;scrapinghub.com/splash&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Awesome Web Scraping list&lt;/b&gt;: &lt;a href="https://github.com/lorien/awesome-web-scraping" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Talk Python episode 50 on web scraping&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/50/web-scraping-at-scale-with-scrapy-and-scrapinghub" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;How Web Scraping is Revealing Lobbying and Corruption in Peru&lt;/b&gt;: &lt;a href="https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru" target="_blank" rel="noopener"&gt;blog.scrapinghub.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Web Data Extraction Summit event&lt;/b&gt;: &lt;a href="https://www.extractsummit.io/" target="_blank" rel="noopener"&gt;extractsummit.io&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#282 pre-commit framework</title>
+            <link>https://talkpython.fm/episodes/show/282/pre-commit-framework</link>
+            <guid>1b73475e-1f64-4dd3-bab9-bf39fa22796e</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/282/pre-commit-framework.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Thu, 17 Sep 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>pre-commit framework</itunes:title>
+            <itunes:episode>282</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Git hook scripts are useful for identifying simple issues before committing your code. Hooks run on every commit to automatically point out issues in code such as trailing whitespace and debug statements. By pointing these issues out before code review, this allows a code reviewer to focus on the architecture of a change while not wasting time with trivial style nitpicks.</itunes:summary>
+            <itunes:duration>59:33</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Git hook scripts are useful for identifying simple issues before committing your code. Hooks run on every commit to automatically point out issues in code such as trailing whitespace and debug statements. By pointing these issues out before code review, this allows a code reviewer to focus on the architecture of a change while not wasting time with trivial style nitpicks. &lt;br/&gt;
+&lt;br/&gt;
+As we created more libraries and projects we recognized that sharing our pre-commit hooks across projects is painful. That's why I'm happy to welcome Anthony Sottile to the show to discuss  pre-commit, a framework for managing and maintaining multi-language pre-commit hooks.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Anthony at Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/codewithanthony" target="_blank" rel="noopener"&gt;@codewithanthony&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pre-commit&lt;/b&gt;: &lt;a href="https://pre-commit.com/" target="_blank" rel="noopener"&gt;pre-commit.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pre-commit continuous integration&lt;/b&gt;: &lt;a href="https://pre-commit.ci/" target="_blank" rel="noopener"&gt;pre-commit.ci&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pre-commit hooks&lt;/b&gt;: &lt;a href="https://pre-commit.com/hooks.html" target="_blank" rel="noopener"&gt;pre-commit.com/hooks.html&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pre-commit on GitHub&lt;/b&gt;: &lt;a href="https://github.com/pre-commit/pre-commit" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;shhgit secret discovery project&lt;/b&gt;: &lt;a href="https://github.com/eth0izzle/shhgit" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;babi editor&lt;/b&gt;: &lt;a href="https://github.com/asottile/babi" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Twitch stream&lt;/b&gt;: &lt;a href="https://twitch.tv/anthonywritescode" target="_blank" rel="noopener"&gt;twitch.tv&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Anthony on GitHub&lt;/b&gt;: &lt;a href="https://github.com/asottile" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#281 Python in Car Racing</title>
+            <link>https://talkpython.fm/episodes/show/281/python-in-car-racing</link>
+            <guid>83a2d674-80d5-47ed-bdb2-07b9ef0d8927</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/281/python-in-car-racing.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Wed, 09 Sep 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Python in Car Racing</itunes:title>
+            <itunes:episode>281</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>I love to bring you stories of Python being used in amazing places outside the traditional tech silos of pure web development and data science. On this episode, you'll meet Robert "Kane" Replogle, who works on the simulation and test software at Richard Childress Racing. The NASCAR team that just finished #1 and 2 in at the Texas Motor Speedway.</itunes:summary>
+            <itunes:duration>01:00:14</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>I love to bring you stories of Python being used in amazing places outside the traditional tech silos of pure web development and data science. &lt;br/&gt;
+&lt;br/&gt;
+On this episode, you'll meet Robert "Kane" Replogle, who works on the simulation and test software at Richard Childress Racing. The NASCAR team that just finished #1 and 2 in at the Texas Motor Speedway. &lt;br/&gt;
+&lt;br/&gt;
+You'll hear how Python is allowing them to model car behavior, air flow, and more much faster than others using outdated tools.&lt;br/&gt;
+&lt;br/&gt;
+&lt;a target="_blank" href="/hatch" style="display: block"&gt; &lt;img src="/static/img/cms/talk-python-indy-pro-brands-hatch.jpg" class="img img-responsive" style="border-radius: 5px;"&gt; &lt;div style="font-size: .7em; text-align: center"&gt;Watch the hot lap around Brands Hatch&lt;/div&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Kane on LinkedIn&lt;/b&gt;: &lt;a href="https://www.linkedin.com/in/robert-kane-replogle-10086425/" target="_blank" rel="noopener"&gt;linkedin.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Kane on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/reploglerk" target="_blank" rel="noopener"&gt;@ReplogleRk&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Richard Childress Racing&lt;/b&gt;: &lt;a href="https://www.rcrracing.com/" target="_blank" rel="noopener"&gt;rcrracing.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Windshear, the 180 mph tunnel&lt;/b&gt;: &lt;a href="https://www.windshearinc.com/" target="_blank" rel="noopener"&gt;windshearinc.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NASCAR&lt;/b&gt;: &lt;a href="https://www.nascar.com/" target="_blank" rel="noopener"&gt;nascar.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;blackcellmagic package&lt;/b&gt;: &lt;a href="https://pypi.org/project/blackcellmagic/" target="_blank" rel="noopener"&gt;pypi.org/project/blackcellmagic&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;StreamLit&lt;/b&gt;: &lt;a href="https://www.streamlit.io" target="_blank" rel="noopener"&gt;streamlit.io&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/sonar'&gt;SonarQube linting tools&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#280 Python and AI in Journalism</title>
+            <link>https://talkpython.fm/episodes/show/280/python-and-ai-in-journalism</link>
+            <guid>c53300a8-339e-4190-922b-47e28fc8b070</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/280/python-and-ai-in-journalism.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 05 Sep 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Python and AI in Journalism</itunes:title>
+            <itunes:episode>280</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>If there has ever been a time in history that journalism is needed to shine a light on what's happening in the world, it's now. Would it surprise you to hear that Python and machine learning are playing an increasingly important role in discovering and bringing us the news? On this episode, you'll meet Carolyn Stansky, a journalist and developer who's been researching this intersection.</itunes:summary>
+            <itunes:duration>55:51</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>If there has ever been a time in history that journalism is needed to shine a light on what's happening in the world, it's now. Would it surprise you to hear that Python and machine learning are playing an increasingly important role in discovering and bringing us the news? On this episode, you'll meet Carolyn Stansky, a journalist and developer who's been researching this intersection.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Carolyn on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/carolstran" target="_blank" rel="noopener"&gt;@carolstran&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Carolyn on LinkedIn&lt;/b&gt;: &lt;a href="https://www.linkedin.com/in/carolstran/" target="_blank" rel="noopener"&gt;linkedin.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Carolyn's site&lt;/b&gt;: &lt;a href="https://workwithcarolyn.com/" target="_blank" rel="noopener"&gt;workwithcarolyn.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Carolyn's talk: How AI is enhancing journalism&lt;/b&gt;: &lt;a href="https://vimeo.com/369290633" target="_blank" rel="noopener"&gt;vimeo.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Examples of AI / automation in use&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Quakebot&lt;/b&gt;: &lt;a href="https://bit.ly/quakebot-code" target="_blank" rel="noopener"&gt;bit.ly/quakebot-code&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;LA Homicide Tracker&lt;/b&gt;: &lt;a href="http://homicide.latimes.com" target="_blank" rel="noopener"&gt;homicide.latimes.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;reportermate&lt;/b&gt;: &lt;a href="https://github.com/nickjevershed/Reportermate-Lib" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Buzzfeed Finding and tracking secret spy planes&lt;/b&gt;: &lt;a href="https://bit.ly/buzzfeed-spy-planes" target="_blank" rel="noopener"&gt;bit.ly/buzzfeed-spy-planes&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NY Times comment moderation&lt;/b&gt;: &lt;a href="https://bit.ly/nyt-comments" target="_blank" rel="noopener"&gt;bit.ly/nyt-comments&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Al Jazzira: Drones in warzones&lt;/b&gt;: &lt;a href="https://bit.ly/fmls-keynote" target="_blank" rel="noopener"&gt;bit.ly/fmls-keynote&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Tools&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Qz.ai - Quartz AI Studio, focused on helping smaller papers and journalists&lt;/b&gt;: &lt;a href="https://qz.ai/" target="_blank" rel="noopener"&gt;qz.ai&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Facets&lt;/b&gt;: &lt;a href="https://pair-code.github.io/facets/" target="_blank" rel="noopener"&gt;github.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Google News Initiative&lt;/b&gt;: &lt;a href="https://bit.ly/google-ni" target="_blank" rel="noopener"&gt;bit.ly/google-ni&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Newspaper3k Package&lt;/b&gt;: &lt;a href="https://newspaper.readthedocs.io/en/latest/" target="_blank" rel="noopener"&gt;newspaper.readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FiveThirtyEight&lt;/b&gt;: &lt;a href="https://fivethirtyeight.com/tag/journalism/" target="_blank" rel="noopener"&gt;fivethirtyeight.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Google News and Australia fight&lt;/b&gt;: &lt;a href="https://www.bbc.com/news/technology-53806489" target="_blank" rel="noopener"&gt;bbc.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Twitter thread on American news overwhelming other countries&lt;/b&gt;: &lt;a href="https://twitter.com/jelenajansson/status/1298118830976360449" target="_blank" rel="noopener"&gt;twitter.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#279 Modern Python Developer's Toolkit</title>
+            <link>https://talkpython.fm/episodes/show/279/modern-python-developers-toolkit</link>
+            <guid>744c41cc-4b57-4df8-82d4-adc0e7cda2e8</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/279/modern-python-developers-toolkit.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 29 Aug 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Modern Python Developer's Toolkit</itunes:title>
+            <itunes:episode>279</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Python is quick and easy to learn. And yet, there is a massive gap between knowing the common aspects of the language (loops, variables, functions, and so on) and how to write a well-factored application using modern tools and libraries. That's where learning Python is a never-ending journey.</itunes:summary>
+            <itunes:duration>01:01:29</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Python is quick and easy to learn. And yet, there is a massive gap between knowing the common aspects of the language (loops, variables, functions, and so on) and how to write a well-factored application using modern tools and libraries. That's where learning Python is a never-ending journey. &lt;br/&gt;
+&lt;br/&gt;
+Sebastian Witowski is here to give us his take on a modern Python developer's toolkit. There are a bunch of great tips in store for us.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Sebastian on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/sebawitowski" target="_blank" rel="noopener"&gt;@SebaWitowski&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;The tutorial recording from PyCon&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=WkUBx3g2QfQ" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Sebastian’s website&lt;/b&gt;: &lt;a href="https://switowski.com/" target="_blank" rel="noopener"&gt;switowski.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Workshop resources site&lt;/b&gt;: &lt;a href="https://pycon.switowski.com/" target="_blank" rel="noopener"&gt;pycon.switowski.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Writing Faster Python talk&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=YjHsOrOOSuI" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Hugo Static Site Theme&lt;/b&gt;: &lt;a href="https://themes.gohugo.io/hugo-theme-learn/" target="_blank" rel="noopener"&gt;gohugo.io&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Announcements at Talk Python&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Python Memory Course&lt;/b&gt;: &lt;a href="https://training.talkpython.fm/courses/python-memory-management-and-tips" target="_blank" rel="noopener"&gt;talkpython.fm/mem&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Excel to Python and Pandas Course&lt;/b&gt;: &lt;a href="https://training.talkpython.fm/courses/move-from-excel-to-python-and-pandas" target="_blank" rel="noopener"&gt;talkpython.fm/excel&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Excel to Python Webcast&lt;/b&gt;: &lt;a href="https://www.crowdcast.io/e/tips-and-techniques-to-move-from-excel-to-python" target="_blank" rel="noopener"&gt;talkpython.fm/excel-webcast&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Team Cohorts&lt;/b&gt;: &lt;a href="https://training.talkpython.fm/cohorts/" target="_blank" rel="noopener"&gt;talkpython.fm/cohorts&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#278 Teach kids Python with real programming and fun games at Code Combat</title>
+            <link>https://talkpython.fm/episodes/show/278/teach-kids-python-with-real-programming-and-fun-games-at-code-combat</link>
+            <guid>fbff036d-1d7c-445b-9b64-f5a3dcccfc67</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/278/teach-kids-python-with-real-programming-and-fun-games-at-code-combat.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 21 Aug 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Teach kids Python with real programming and fun games at Code Combat</itunes:title>
+            <itunes:episode>278</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>If there is one message I've been pushing across all of the Talk Python episodes, it's that programming is a superpower. Rather than all of us abandoning what we're interested in and becoming CS majors, we can take our passion or expertise and 10x it with a little programming skill.</itunes:summary>
+            <itunes:duration>01:05:28</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>If there is one message I've been pushing across all of the Talk Python episodes, it's that programming is a superpower. Rather than all of us abandoning what we're interested in and becoming CS majors, we can take our passion or expertise and 10x it with a little programming skill. &lt;br/&gt;
+&lt;br/&gt;
+In that case, we should be teaching kids fluency in programming at a younger age. And yet, almost every platform or example meant to do so pulls its punches. We'll teach kids programming &lt;em&gt;concepts&lt;/em&gt; but not code itself. That's a bridge too far.&lt;br/&gt;
+&lt;br/&gt;
+But it's not! That's why I'm excited about Code Combat. It's an online coding platform that uses real Python syntax to guide your hero, visually, through a dungeon full of challenges. Yet the editor and customized error messages mean this is approachable for kids before they can even type reliably.&lt;br/&gt;
+&lt;br/&gt;
+On this episode, we'll meet Nick Winter, one of the cofounders of Code Combat. There's a lot of philosophy behind the tool and technology to make it kid-friend and real Python at the same time.&lt;br/&gt;
+&lt;br/&gt;
+Oh, and it's running Python in the browser.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;CodeCombat&lt;/b&gt;: &lt;a href="https://codecombat.com/" target="_blank" rel="noopener"&gt;codecombat.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;On Twitter&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Code Combat&lt;/b&gt;: &lt;a href="https://twitter.com/CodeCombat" target="_blank" rel="noopener"&gt;@CodeCombat&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Nick Winter&lt;/b&gt;: &lt;a href="https://twitter.com/nwinter" target="_blank" rel="noopener"&gt;@nwinter&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Nick's website&lt;/b&gt;: &lt;a href="http://nickwinter.net/" target="_blank" rel="noopener"&gt;nickwinter.net&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Code Combat on GitHub&lt;/b&gt;: &lt;a href="https://github.com/codecombat/codecombat" target="_blank" rel="noopener"&gt;github.com/codecombat&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Brett's learnable programming talk&lt;/b&gt;: &lt;a href="http://worrydream.com/LearnableProgramming/" target="_blank" rel="noopener"&gt;worrydream.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Ozaria&lt;/b&gt;: &lt;a href="https://www.ozaria.com" target="_blank" rel="noopener"&gt;ozaria.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#277 10 tips every Django developer should know</title>
+            <link>https://talkpython.fm/episodes/show/277/10-tips-every-django-developer-should-know</link>
+            <guid>1e7f93b7-5960-418c-84ad-41cec782ed98</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/277/10-tips-every-django-developer-should-know.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Mon, 10 Aug 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>10 tips every Django developer should know</itunes:title>
+            <itunes:episode>277</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>We recently covered 10 tips that every Flask developer should know. But we left out a pretty big group in the Python web space: Django developers! And this one is for you. I invited Bob Belderbos, who's been running his SaaS business on Python and Django for several years now, to share his tips and tricks.</itunes:summary>
+            <itunes:duration>01:11:57</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>We recently covered 10 tips that every Flask developer should know. But we left out a pretty big group in the Python web space: Django developers! And this one is for you. I invited Bob Belderbos, who's been running his SaaS business on Python and Django for several years now, to share his tips and tricks. &lt;br/&gt;
+&lt;h2&gt;The 10 tips&lt;/h2&gt;&lt;ol&gt; &lt;li&gt;Django Admin&lt;/li&gt;&lt;li&gt;ORM magic&lt;/li&gt;&lt;li&gt;Models&lt;/li&gt;&lt;li&gt;Debugging/Performance Toolbar&lt;/li&gt;&lt;li&gt;Extending the User model&lt;/li&gt;&lt;li&gt;Class based views (CBVs)&lt;/li&gt;&lt;li&gt;manage.py&lt;/li&gt;&lt;li&gt;Write your own middleware&lt;/li&gt;&lt;li&gt;Config variable management with python-decouple and dj-database-url&lt;/li&gt;&lt;li&gt;Built-in template tags and filters&lt;/li&gt;&lt;/ol&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Bob on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/bbelderbos" target="_blank" rel="noopener"&gt;@bbelderbos&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Code Challenges Platform&lt;/b&gt;: &lt;a href="https://codechalleng.es/" target="_blank" rel="noopener"&gt;codechalleng.es&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyBites&lt;/b&gt;: &lt;a href="https://pybit.es/" target="_blank" rel="noopener"&gt;pybit.es&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Django admin&lt;/b&gt;: &lt;a href="https://docs.djangoproject.com/en/3.0/ref/contrib/admin/" target="_blank" rel="noopener"&gt;docs.djangoproject.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Django admin cookbook&lt;/b&gt;: &lt;a href="https://books.agiliq.com/projects/django-admin-cookbook/en/latest/" target="_blank" rel="noopener"&gt;books.agiliq.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Use some Django ORM magic to get the most common first names&lt;/b&gt;: &lt;a href="https://twitter.com/pybites/status/1181912492701822976" target="_blank" rel="noopener"&gt;twitter.com/pybites&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Django custom manager&lt;/b&gt;: &lt;a href="https://riptutorial.com/django/example/22038/define-custom-managers" target="_blank" rel="noopener"&gt;riptutorial.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Debug toolbar&lt;/b&gt;: &lt;a href="https://django-debug-toolbar.readthedocs.io/en/latest/index.html" target="_blank" rel="noopener"&gt;django-debug-toolbar.readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;select_related&lt;/b&gt;: &lt;a href="https://docs.djangoproject.com/en/3.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related" target="_blank" rel="noopener"&gt;docs.djangoproject.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Extending the user model / working with signals / @receiver&lt;/b&gt;: &lt;a href="https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html" target="_blank" rel="noopener"&gt;simpleisbetterthancomplex.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Class-based views&lt;/b&gt;: &lt;a href="https://docs.djangoproject.com/en/3.0/topics/class-based-views/" target="_blank" rel="noopener"&gt;docs.djangoproject.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Comparing class and function-based views&lt;/b&gt;: &lt;a href="https://github.com/talkpython/100daysofweb-with-python-course/blob/master/days/045-048-django-intro/demo/quotes/views.py" target="_blank" rel="noopener"&gt;github.com/talkpython/100daysofweb&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Example of class-based views&lt;/b&gt;: &lt;a href="https://github.com/talkpython/100daysofweb-with-python-course/blob/master/days/045-048-django-intro/demo/quotes/views-cb.py" target="_blank" rel="noopener"&gt;github.com/talkpython/100daysofweb&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Django command template&lt;/b&gt;: &lt;a href="https://gist.github.com/bbelderbos/c69c057aab07440c9a485e3e9c9ad248" target="_blank" rel="noopener"&gt;gist.github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Django middleware example&lt;/b&gt;: &lt;a href="https://gist.github.com/bbelderbos/0bcb04e0b7a89a0cb108d331ea75f8e1" target="_blank" rel="noopener"&gt;gist.github.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Config settings management:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;python-decouple&lt;/b&gt;: &lt;a href="https://pypi.org/project/python-decouple/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;dj-database-url&lt;/b&gt;: &lt;a href="https://pypi.org/project/dj-database-url/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Useful template tags and filters&lt;/b&gt;: &lt;a href="https://docs.djangoproject.com/en/3.0/ref/templates/builtins/" target="_blank" rel="noopener"&gt;docs.djangoproject.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;for-empty&lt;/b&gt;: &lt;a href="https://gist.github.com/bbelderbos/b54040cc288843cf94bd4a90f50e967f" target="_blank" rel="noopener"&gt;gist.github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;is_new filter example&lt;/b&gt;: &lt;a href="https://gist.github.com/bbelderbos/41aa5690bd76510a439e0a7a5fee7fcd" target="_blank" rel="noopener"&gt;gist.github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Asynchronous Tasks with Django and Celery&lt;/b&gt;: &lt;a href="https://testdriven.io/blog/django-and-celery/" target="_blank" rel="noopener"&gt;testdriven.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Celery debugging - CELERY_ALWAYS_EAGER&lt;/b&gt;: &lt;a href="https://twitter.com/pybites/status/1279432833518444544" target="_blank" rel="noopener"&gt;twitter.com/pybites&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;secure.py&lt;/b&gt;: &lt;a href="https://github.com/TypeError/secure.py" target="_blank" rel="noopener"&gt;github.com/TypeError/secure.py&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;django-tinymce&lt;/b&gt;: &lt;a href="https://github.com/aljosa/django-tinymce" target="_blank" rel="noopener"&gt;github.com/aljosa&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Extra tools Michael mentioned&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;BeeKeeper Studio&lt;/b&gt;: &lt;a href="https://www.beekeeperstudio.io" target="_blank" rel="noopener"&gt;beekeeperstudio.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;SimpleMDE&lt;/b&gt;: &lt;a href="https://simplemde.com/" target="_blank" rel="noopener"&gt;simplemde.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Human time to Python parse string site (the one I forgot)&lt;/b&gt;: &lt;a href="https://pystrftime.com" target="_blank" rel="noopener"&gt;pystrftime.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#276 Geekout: Life in the solar system and beyond</title>
+            <link>https://talkpython.fm/episodes/show/276/geekout-life-in-the-solar-system-and-beyond</link>
+            <guid>2f974cb0-8847-46a2-a6cb-c73daed45ca8</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/276/geekout-life-in-the-solar-system-and-beyond.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Thu, 06 Aug 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Geekout: Life in the solar system and beyond</itunes:title>
+            <itunes:episode>276</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>We're back with another GeekOut episode. Richard Campbell, a developer and podcaster who also dives deep into science and tech topics, is back for our second GeekOut episode. Last time we geeked out about the real science and progress around a moon base. This time it's why is there life on Earth, where could it be or have been in the solar system, and beyond.</itunes:summary>
+            <itunes:duration>01:14:15</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>We're back with another GeekOut episode. Richard Campbell, a developer and podcaster who also dives deep into science and tech topics, is back for our second GeekOut episode. Last time we geeked out about the real science and progress around a moon base. This time it's why is there life on Earth, where could it be or have been in the solar system, and beyond. &lt;br/&gt;
+&lt;br/&gt;
+In case you didn't catch the first GeekOut, episode 253, this one is more of a general science and tech episode. I love digging into the deep internals of all the tools of the Python space, but given all that is going on in the world, I thought it'd be fun to take a step back and just enjoy some fun geekery and give you all something to just sit back and let your mind dream.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Richard on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/richcampbell" target="_blank" rel="noopener"&gt;@richcampbell&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;All Richard's GeekOut Episodes&lt;/b&gt;: &lt;a href="http://geekout.show" target="_blank" rel="noopener"&gt;geekout.show&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Moonbase Geekout Episode&lt;/b&gt;: &lt;a href="https://talkpython.fm/253" target="_blank" rel="noopener"&gt;talkpython.fm/253&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;High Altitude Venus Operational Concept (HAVOC)&lt;/b&gt;: &lt;a href="https://sacd.larc.nasa.gov/smab/havoc/" target="_blank" rel="noopener"&gt;sacd.larc.nasa.gov&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;New Horizons&lt;/b&gt;: &lt;a href="https://solarsystem.nasa.gov/missions/new-horizons/in-depth/" target="_blank" rel="noopener"&gt;solarsystem.nasa.gov&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;The Planets: Saturn - NOVA documentary (Cassini)&lt;/b&gt;: &lt;a href="https://www.pbs.org/wgbh/nova/video/the-planets-saturn/" target="_blank" rel="noopener"&gt;pbs.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Mission to Jupiter - Galileo&lt;/b&gt;: &lt;a href="https://www.jpl.nasa.gov/missions/galileo/" target="_blank" rel="noopener"&gt;jpl.nasa.gov&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#275 Beautiful Pythonic Refactorings</title>
+            <link>https://talkpython.fm/episodes/show/275/beautiful-pythonic-refactorings</link>
+            <guid>d433fdca-afad-4220-9a8f-21cd4b677184</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/275/beautiful-pythonic-refactorings.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Beautiful Pythonic Refactorings</itunes:title>
+            <itunes:episode>275</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Do you obsess about writing your code just the right way before you get started? Maybe you have some ugly code on your hands and you need to make it better. Either way, refactoring could be your ticket to happier days! On this episode, we'll talk through a powerful example of iteratively refactoring some code until we eventually turn our ugly duckling into a Pythonic beauty.</itunes:summary>
+            <itunes:duration>55:04</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Do you obsess about writing your code just the right way before you get started? Maybe you have some ugly code on your hands and you need to make it better. Either way, refactoring could be your ticket to happier days! On this episode, we'll talk through a powerful example of iteratively refactoring some code until we eventually turn our ugly duckling into a Pythonic beauty. &lt;br/&gt;
+&lt;br/&gt;
+Conor Hoekstra is our guest on this episode to talk us through refactoring some web scraping code.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;The PyCon talk&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=W-lZttZhsUY" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Presentation source code&lt;/b&gt;: &lt;a href="https://github.com/codereport/Talks/blob/master/2020-04-PyCon/BeautifulPythonRefactoring/" target="_blank" rel="noopener"&gt;github.com/codereport&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Conor on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/code_report" target="_blank" rel="noopener"&gt;@code_report&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Youtube channel&lt;/b&gt;: &lt;a href="https://www.youtube.com/codereport" target="_blank" rel="noopener"&gt;youtube.com/codereport&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Perf example exceptions vs. test&lt;/b&gt;: &lt;a href="https://gist.github.com/mikeckennedy/00828db1d49d2cd2dac8fa0295e54c23" target="_blank" rel="noopener"&gt;gist.github.com/mikeckennedy&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyCon Online&lt;/b&gt;: &lt;a href="https://us.pycon.org/2020/online/" target="_blank" rel="noopener"&gt;us.pycon.org/2020/online&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;RAPIDS AI project&lt;/b&gt;: &lt;a href="https://rapids.ai/" target="_blank" rel="noopener"&gt;rapids.ai&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Slides from presentation (with 9 refactoring steps)&lt;/b&gt;: &lt;a href="https://github.com/codereport/Talks/blob/master/2020-04-PyCon/BeautifulPythonRefactoring/BeautifulPythonRefactoring.pdf" target="_blank" rel="noopener"&gt;github.com/codereport&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Talk Python episode on Sourcery&lt;/b&gt;: &lt;a href="/266" target="_blank" rel="noopener"&gt;talkpython.fm/266&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;pip for venv only environment variable&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;PIP_REQUIRE_VIRTUALENV&lt;/b&gt;: &lt;a href="https://docs.python-guide.org/dev/pip-virtualenv/" target="_blank" rel="noopener"&gt;docs.python-guide.org&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#274 Profiling data science code with FIL</title>
+            <link>https://talkpython.fm/episodes/show/274/profiling-data-science-code-with-fil</link>
+            <guid>70fb730a-68de-4978-b793-aa88cbb6f61e</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/274/profiling-data-science-code-with-fil.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 24 Jul 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Profiling data science code with FIL</itunes:title>
+            <itunes:episode>274</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Do you write data science code? Do you struggle loading large amounts of data or wonder what parts of your code use the maximum amount of memory? Maybe you just want to require smaller compute resources (servers, RAM, and so on).</itunes:summary>
+            <itunes:duration>58:12</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Do you write data science code? Do you struggle loading large amounts of data or wonder what parts of your code use the maximum amount of memory? Maybe you just want to require smaller compute resources (servers, RAM, and so on).   &lt;br/&gt;
+&lt;br/&gt;
+If so, this episode is for you. We have Itamar Turner-Trauring, creator of the Python data science memory profiler FIL here to talk memory usage and data science.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Itamar on twitter&lt;/b&gt;: &lt;a href="https://twitter.com/itamarst" target="_blank" rel="noopener"&gt;@itamarst&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;FIL&lt;/b&gt;: &lt;a href="https://pythonspeed.com/articles/memory-profiler-data-scientists/" target="_blank" rel="noopener"&gt;pythonspeed.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Python Bytes coverage of FIL&lt;/b&gt;: &lt;a href="https://pythonbytes.fm/episodes/show/185/this-code-is-snooping-on-you-a-good-thing" target="_blank" rel="noopener"&gt;pythonbytes.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Video: Small Big Data: using NumPy and Pandas when your data doesn't fit in memory&lt;/b&gt;: &lt;a href="https://youtu.be/8pFnrr0NnwY" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Software Engineering for Data Scientists Article&lt;/b&gt;: &lt;a href="https://pythonspeed.com/datascience/" target="_blank" rel="noopener"&gt;pythonspeed.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Python Tutor&lt;/b&gt;: &lt;a href="http://pythontutor.com/" target="_blank" rel="noopener"&gt;pythontutor.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Weak references&lt;/b&gt;: &lt;a href="https://docs.python.org/3/library/weakref.html" target="_blank" rel="noopener"&gt;docs.python.org&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;memory_profiler package&lt;/b&gt;: &lt;a href="https://github.com/fabianp/memory_profiler" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Austin profiler&lt;/b&gt;: &lt;a href="https://github.com/P403n1x87/austin" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;WSL2 on Windows&lt;/b&gt;: &lt;a href="https://pbpython.com/wsl-python.html" target="_blank" rel="noopener"&gt;pbpython.com/wsl-python.html&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#273 CoCalc: A fully colloborative notebook development environment</title>
+            <link>https://talkpython.fm/episodes/show/273/cocalc-a-fully-colloborative-notebook-development-environment</link>
+            <guid>881daaa4-cb51-4c26-9620-6350e0a376f5</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/273/cocalc-a-fully-colloborative-notebook-development-environment.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 18 Jul 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>CoCalc: A fully colloborative notebook development environment</itunes:title>
+            <itunes:episode>273</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Everyone in the Python space is familiar with Notebooks these days. One of the original notebook environments was SageMath. Created by William Stein, and collaborators, it began as an open-source, Python-based, computational environment focused on mathematicians.</itunes:summary>
+            <itunes:duration>55:06</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Everyone in the Python space is familiar with Notebooks these days. One of the original notebook environments was SageMath. Created by William Stein, and collaborators, it began as an open-source, Python-based, computational environment focused on mathematicians. &lt;br/&gt;
+&lt;br/&gt;
+It has since grown into a full-blown company and has become a proper collaborative environment for things like Jupyter notebooks, Linux-backed Bash shells, and much more. Think Google Docs but across all these facets of development in your browser.&lt;br/&gt;
+&lt;br/&gt;
+We welcome back William Stein to give us an update on his journey from professor to entrepreneur building CoCalc along the way.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;William on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/wstein389" target="_blank" rel="noopener"&gt;@wstein389&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;CoCalc&lt;/b&gt;: &lt;a href="https://cocalc.com" target="_blank" rel="noopener"&gt;cocalc.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Episode 59 about SageMath&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/59/sagemath-open-source-is-ready-to-compete-in-the-classroom" target="_blank" rel="noopener"&gt;talkpython.fm/59&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Comparing CoCalc to other products&lt;/b&gt;: &lt;a href="https://cocalc.com/doc/compare.html" target="_blank" rel="noopener"&gt;cocalc.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Examples/Gallery&lt;/b&gt;: &lt;a href="https://share.cocalc.com" target="_blank" rel="noopener"&gt;share.cocalc.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;SageMath&lt;/b&gt;: &lt;a href="https://sagemath.org" target="_blank" rel="noopener"&gt;sagemath.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;X11 server&lt;/b&gt;: &lt;a href="https://xpra.org/" target="_blank" rel="noopener"&gt;xpra.org&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#272 No IoT things in hand? Simulate them with Device Simulator Express</title>
+            <link>https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express</link>
+            <guid>99044d9d-4bcb-458e-8a41-ea7634d8905a</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sun, 12 Jul 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>No IoT things in hand? Simulate them with Device Simulator Express</itunes:title>
+            <itunes:episode>272</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Python is one of the primary languages for IoT devices. With runtimes such as CircuitPython and MicroPython, they are ideal for the really small IoT chips. Maybe you've heard of the Circuit Playground Express, BBC micro:bit, or the fancy Adafruit CLUE. They aren't too expensive (ranging from $25 to $50 each). But for large groups such as classrooms, this can be a lot of money. Moreover, getting your hands on these devices can sometimes be tricky as well.</itunes:summary>
+            <itunes:duration>51:47</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Python is one of the primary languages for IoT devices. With runtimes such as CircuitPython and MicroPython, they are ideal for the really small IoT chips. &lt;br/&gt;
+&lt;br/&gt;
+Maybe you've heard of the Circuit Playground Express, BBC micro:bit, or the fancy Adafruit CLUE.  They aren't too expensive (ranging from $25 to $50 each). But for large groups such as classrooms, this can be a lot of money. Moreover, getting your hands on these devices can sometimes be tricky as well. &lt;br/&gt;
+&lt;br/&gt;
+With an extension for VS Code called Device simulator express, you can have instant access to all three (virtually of course). This cool extension adds a visual emulator as well as the native interactions such as buttons and temperature sensors.&lt;br/&gt;
+&lt;br/&gt;
+Get your IoT on without a real device using VS code today. Let's meet the most recent team behind this project:&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Guests&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+* Andrea Mah&lt;br/&gt;
+* Sayyeda Mussa&lt;br/&gt;
+* Vandy Liu&lt;br/&gt;
+* Xuan-Nam Kevin Nguyen&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Device simulator express&lt;/b&gt;: &lt;a href="https://www.microsoft.com/en-us/garage/profiles/device-simulator-express/" target="_blank" rel="noopener"&gt;microsoft.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Source code&lt;/b&gt;: &lt;a href="https://github.com/microsoft/vscode-python-devicesimulator" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Makecode&lt;/b&gt;: &lt;a href="https://www.microsoft.com/en-us/makecode" target="_blank" rel="noopener"&gt;microsoft.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Meet the team (short video intro)&lt;/b&gt;: &lt;a href="https://youtu.be/2C7VBjiilEw?t=213" target="_blank" rel="noopener"&gt;youtu.be&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Overview video&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=03PdAG_hEB0" target="_blank" rel="noopener"&gt;youtu.be&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Devices&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Circuit Playground Express&lt;/b&gt;: &lt;a href="https://www.adafruit.com/product/3333" target="_blank" rel="noopener"&gt;adafruit.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;CLUE&lt;/b&gt;: &lt;a href="https://www.adafruit.com/clue" target="_blank" rel="noopener"&gt;adafruit.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;BBC micro:bit&lt;/b&gt;: &lt;a href="https://microbit.org/" target="_blank" rel="noopener"&gt;microbit.org&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#271 Unlock the mysteries of time, Python's datetime that is!</title>
+            <link>https://talkpython.fm/episodes/show/271/unlock-the-mysteries-of-time-pythons-datetime-that-is</link>
+            <guid>0ec463af-7389-4d43-a908-3861143562c4</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/271/unlock-the-mysteries-of-time-pythons-datetime-that-is.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 04 Jul 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Unlock the mysteries of time, Python's datetime that is!</itunes:title>
+            <itunes:episode>271</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Time is a simple thing, right? And working with it in Python is great. You just import datetime and then (somewhat oddly) use the datetime class from that module.</itunes:summary>
+            <itunes:duration>01:04:33</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Time is a simple thing, right? And working with it in Python is great. You just import datetime and then (somewhat oddly) use the datetime class from that module.  &lt;br/&gt;
+&lt;br/&gt;
+Oh except, there are times with timezones, and times without. And why is there a total_seconds() but not total_minutes(), hours() or days() on timedelta? How about computing the number of weeks? &lt;br/&gt;
+&lt;br/&gt;
+What if you wanted to iterate over the next 22 workdays, skipping weekends?&lt;br/&gt;
+&lt;br/&gt;
+Ok, we'd better talk about time in Python! Good thing Paul Ganssle is here. He's a core developer who controls time in CPython.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Talk Python Training Humble Bundle&lt;/b&gt;: &lt;a href="https://talkpython.fm/humble2020" target="_blank" rel="noopener"&gt;humblebundle.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Paul on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/pganssle" target="_blank" rel="noopener"&gt;@pganssle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Paul's Blog&lt;/b&gt;: &lt;a href="https://blog.ganssle.io/" target="_blank" rel="noopener"&gt;blog.ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Paul's Website&lt;/b&gt;: &lt;a href="https://ganssle.io/" target="_blank" rel="noopener"&gt;ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Datetime blog posts&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;pytz: The fastest footgun in the West&lt;/b&gt;: &lt;a href="https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html" target="_blank" rel="noopener"&gt;blog.ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Stop using utcnow and utcfromtimestamp&lt;/b&gt;: &lt;a href="https://blog.ganssle.io/articles/2019/11/utcnow.html" target="_blank" rel="noopener"&gt;blog.ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;A curious case of non-transitive datetime comparison&lt;/b&gt;: &lt;a href="https://blog.ganssle.io/articles/2018/02/a-curious-case-datetimes.html" target="_blank" rel="noopener"&gt;blog.ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Semantics of timezone-aware datetime arithmetic&lt;/b&gt;: &lt;a href="https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html" target="_blank" rel="noopener"&gt;blog.ganssle.io&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;PEPs&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;PEP 495: Local time disambiguation&lt;/b&gt;: &lt;a href="https://www.python.org/dev/peps/pep-0495/" target="_blank" rel="noopener"&gt;python.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PEP 615: Support for the IANA Time Zone Database in the Standard Library&lt;/b&gt;: &lt;a href="https://www.python.org/dev/peps/pep-0615/" target="_blank" rel="noopener"&gt;python.org&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;zoneinfo documentation in Python 3.9&lt;/b&gt;: &lt;a href="https://docs.python.org/3.9/library/zoneinfo.html#module-zoneinfo" target="_blank" rel="noopener"&gt;docs.python.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;backports.zoneinfo&lt;/b&gt;: &lt;a href="https://pypi.org/project/backports.zoneinfo/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytz_deprecation_shim&lt;/b&gt;: &lt;a href="https://pytz-deprecation-shim.readthedocs.io/en/latest/" target="_blank" rel="noopener"&gt;readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Extra libraries&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;dateutil&lt;/b&gt;: &lt;a href="https://dateutil.readthedocs.io/en/stable/" target="_blank" rel="noopener"&gt;readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;break-my-python&lt;/b&gt;: &lt;a href="https://pypi.org/project/break-my-python/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;arrow&lt;/b&gt;: &lt;a href="https://arrow.readthedocs.io/en/latest/" target="_blank" rel="noopener"&gt;readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pendulum&lt;/b&gt;: &lt;a href="https://pendulum.eustace.io/" target="_blank" rel="noopener"&gt;pendulum.eustace.io&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Indiana Time Zones&lt;/b&gt;: &lt;a href="https://www.google.com/search?client=firefox-b-1-d&amp;q=day+lightsavings+indiana" target="_blank" rel="noopener"&gt;google.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#270 Python in supply chains: oil rigs, rockets, and lettuce</title>
+            <link>https://talkpython.fm/episodes/show/270/python-in-supply-chains-oil-rigs-rockets-and-lettuce</link>
+            <guid>4c635ce1-4e4a-468e-b355-833618553ed4</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/270/python-in-supply-chains-oil-rigs-rockets-and-lettuce.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Thu, 25 Jun 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Python in supply chains: oil rigs, rockets, and lettuce</itunes:title>
+            <itunes:episode>270</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>On this episode, we are going to weave a thread through three different areas of Python programming that at first seem unlikely to have much in common. Yet, the core will be the same throughout. I think this is a cool lesson to learn as you get deeper into programming and a great story to highlight it.</itunes:summary>
+            <itunes:duration>00:59:20</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>On this episode, we are going to weave a thread through three different areas of Python programming that at first seem unlikely to have much in common. Yet, the core will be the same throughout. I think this is a cool lesson to learn as you get deeper into programming and a great story to highlight it. &lt;br/&gt;
+&lt;br/&gt;
+We are going to meet Ravin Kumar who wrote Python code and data science tooling for oil rig tool manufacturer, a rocket company, and a hip multilocation restaurant chain.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Ravin on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/canyon289" target="_blank" rel="noopener"&gt;@canyon289&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyMC3&lt;/b&gt;: &lt;a href="https://docs.pymc.io/" target="_blank" rel="noopener"&gt;pymc.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Arviz project&lt;/b&gt;: &lt;a href="https://arviz-devs.github.io/arviz/" target="_blank" rel="noopener"&gt;arviz-devs.github.io/arviz&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pystan project&lt;/b&gt;: &lt;a href="https://pystan.readthedocs.io/en/latest/" target="_blank" rel="noopener"&gt;pystan.readthedocs.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NumFocus&lt;/b&gt;: &lt;a href="https://numfocus.org/" target="_blank" rel="noopener"&gt;numfocus.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Bayesian Decision Making&lt;/b&gt;: &lt;a href="http://canyon289.github.io/BayesianDecisionMaking.html#BayesianDecisionMaking" target="_blank" rel="noopener"&gt;canyon289.github.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;open-aerospace project&lt;/b&gt;: &lt;a href="https://open-aerospace.github.io/" target="_blank" rel="noopener"&gt;open-aerospace.github.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;SweetGreen&lt;/b&gt;: &lt;a href="https://www.sweetgreen.com/" target="_blank" rel="noopener"&gt;sweetgreen.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Get notified when Bayesian Computation In Python is out&lt;/b&gt;: &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeGA_6AZIIat6vSds9pOEao0VN_svijqafEDOWo-Rxt38ljmw/viewform" target="_blank" rel="noopener"&gt;docs.google.com/forms&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Bayesian Analysis with Python Book&lt;/b&gt;: &lt;a href="https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition" target="_blank" rel="noopener"&gt;packtpub.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/sentry'&gt;Sentry Error Monitoring, Code TALKPYTHON&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#269 HoloViz - a suite of tools for Python visualization</title>
+            <link>https://talkpython.fm/episodes/show/269/holoviz-a-suite-of-tools-for-python-visualization</link>
+            <guid>579525ba-eb30-4649-902e-3f3873f073fe</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/269/holoviz-a-suite-of-tools-for-python-visualization.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 19 Jun 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>HoloViz - a suite of tools for Python visualization</itunes:title>
+            <itunes:episode>269</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>The toolchain for modern data science can be intimidating. How do you choose between all the data visualization libraries out there? How about creating interactive web apps from those analyses? On this episode, we dive into a project that attempts to bring the whole story together: HoloViz.</itunes:summary>
+            <itunes:duration>55:57</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>The toolchain for modern data science can be intimidating. How do you choose between all the data visualization libraries out there? How about creating interactive web apps from those analyses? On this episode, we dive into a project that attempts to bring the whole story together: HoloViz. &lt;br/&gt;
+&lt;br/&gt;
+ HoloViz is a coordinated effort to make browser-based data visualization in Python easier to use, easier to learn, and more powerful. And we have Philipp Rudiger from HoloViz here to guide us through it.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Philipp on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/PhilippJFR" target="_blank" rel="noopener"&gt;@PhilippJFR&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;HoloViews on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/HoloViews" target="_blank" rel="noopener"&gt;@HoloViews&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Panel on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/Panel_org" target="_blank" rel="noopener"&gt;@Panel_org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Datashader on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/datashader" target="_blank" rel="noopener"&gt;@datashader&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Examples&lt;/b&gt;: &lt;a href="https://examples.pyviz.org" target="_blank" rel="noopener"&gt;examples.pyviz.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;HoloViz tutorial&lt;/b&gt;: &lt;a href="https://holoviz.org" target="_blank" rel="noopener"&gt;holoviz.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Panel website&lt;/b&gt;: &lt;a href="https://panel.holoviz.org" target="_blank" rel="noopener"&gt;panel.holoviz.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;HoloViews website&lt;/b&gt;: &lt;a href="https://holoviews.org" target="_blank" rel="noopener"&gt;holoviews.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;GeoViews website&lt;/b&gt;: &lt;a href="http://geoviews.org" target="_blank" rel="noopener"&gt;geoviews.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Project Discourse&lt;/b&gt;: &lt;a href="https://discourse.holoviz.org/" target="_blank" rel="noopener"&gt;discourse.holoviz.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyData Berlin talk&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=Ohr29FJjBi0" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Census example&lt;/b&gt;: &lt;a href="https://examples.pyviz.org/census/census.html#census-gallery-census" target="_blank" rel="noopener"&gt;examples.pyviz.org/...&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/datadog'&gt;Datadog&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#268 Analyzing dozens of notebook environments</title>
+            <link>https://talkpython.fm/episodes/show/268/analyzing-dozens-of-notebook-environments</link>
+            <guid>b98f65e7-3605-4fc2-a5cb-442b863d0a36</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/268/analyzing-dozens-of-notebook-environments.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 13 Jun 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Analyzing dozens of notebook environments</itunes:title>
+            <itunes:episode>268</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Are you using interactive notebooks for your data exploration or day-to-day programming? What environment do you use? Was it Jupyter and now you've made the move to JupyterLab? That's a great choice. But did you know there are more environments out there to choose from and compare? Have you heard of Callisto or Iodide? How about CoCalc or PolyNote? That's just the tip of the iceberg!</itunes:summary>
+            <itunes:duration>54:24</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Are you using interactive notebooks for your data exploration or day-to-day programming? What environment do you use? Was it Jupyter and now you've made the move to JupyterLab? That's a great choice. But did you know there are more environments out there to choose from and compare? Have you heard of Callisto or Iodide? How about CoCalc or PolyNote? That's just the tip of the iceberg! &lt;br/&gt;
+&lt;br/&gt;
+That's why I'm happy to have Sam Lau and Philip Guo here to share their research comparing and categorizing over 60 notebook environments.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Sam on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/samlau95" target="_blank" rel="noopener"&gt;@samlau95&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Philip's site&lt;/b&gt;: &lt;a href="http://pgbovine.net" target="_blank" rel="noopener"&gt;pgbovine.net&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;The paper&lt;/b&gt;: &lt;a href="http://pgbovine.net/publications.htm#computational_notebooks_design_space_VLHCC_2020" target="_blank" rel="noopener"&gt;pgbovine.net/publications.htm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PDF download&lt;/b&gt;: &lt;a href="http://pgbovine.net/publications/computational-notebooks-design-space_VLHCC-2020.pdf" target="_blank" rel="noopener"&gt;computational-notebooks-design-space_VLHCC-2020.pdf&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NBInteract&lt;/b&gt;: &lt;a href="https://www.nbinteract.com/" target="_blank" rel="noopener"&gt;nbinteract.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NBStripout&lt;/b&gt;: &lt;a href="https://pypi.org/project/nbstripout/" target="_blank" rel="noopener"&gt;pypi.org/project/nbstripout&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Audio live coding&lt;/b&gt;: &lt;a href="https://foxdot.org/" target="_blank" rel="noopener"&gt;foxdot.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;NBDev&lt;/b&gt;: &lt;a href="https://github.com/fastai/nbdev" target="_blank" rel="noopener"&gt;github.com/fastai/nbdev&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PyIodide episode&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/212/python-in-web-assembly-with-pyodide" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Carnets&lt;/b&gt;: &lt;a href="https://holzschu.github.io/Carnets_Jupyter/" target="_blank" rel="noopener"&gt;holzschu.github.io/Carnets_Jupyter&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/sentry'&gt;Sentry Error Monitoring, Code TALKPYTHON&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#267 15 amazing pytest plugins</title>
+            <link>https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins</link>
+            <guid>d2840c59-ecb2-47aa-801b-e22ad502a7ad</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/267/15-amazing-pytest-plugins.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Sat, 06 Jun 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>15 amazing pytest plugins</itunes:title>
+            <itunes:episode>267</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Do you write tests for your code? You probably should. And most of the time, pytest is the industry standard these days. But pytest can be much more than what you get from just installing it as a tool.</itunes:summary>
+            <itunes:duration>53:34</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Do you write tests for your code? You probably should. And most of the time, pytest is the industry standard these days. But pytest can be much more than what you get from just installing it as a tool. &lt;br/&gt;
+&lt;br/&gt;
+There are many amazing plugins that improve pytest in many aspects. That's why I invited Brian Okken to the show to tell us about his favorites. Listen in and your Python testing will be faster, stronger, and more beautiful!&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Brian Okken&lt;/b&gt;: &lt;a href="https://twitter.com/brianokken" target="_blank" rel="noopener"&gt;@brianokken&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Brian's pytest book&lt;/b&gt;: &lt;a href="https://t.co/AKfVKcveg6?amp=1" target="_blank" rel="noopener"&gt;amazon.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Test &amp; Code podcast&lt;/b&gt;: &lt;a href="https://testandcode.com/" target="_blank" rel="noopener"&gt;testandcode.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Test &amp; Code 104: Top 28 pytest plugins&lt;/b&gt;: &lt;a href="https://testandcode.com/104" target="_blank" rel="noopener"&gt;testandcode.com/104&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;The list of plugins&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;pytest-sugar&lt;/b&gt;: &lt;a href="https://github.com/Teemu/pytest-sugar" target="_blank" rel="noopener"&gt;github.com/Teemu/pytest-sugar&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-cov&lt;/b&gt;: &lt;a href="https://pypi.org/project/pytest-cov/" target="_blank" rel="noopener"&gt;pypi.org/project/pytest-cov&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-stress&lt;/b&gt;: &lt;a href="https://github.com/pytest-dev/pytest-stress" target="_blank" rel="noopener"&gt;github.com/pytest-dev/pytest-stress&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-repeat&lt;/b&gt;: &lt;a href="https://github.com/pytest-dev/pytest-repeat" target="_blank" rel="noopener"&gt;github.com/pytest-dev/pytest-repeat&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-instafail&lt;/b&gt;: &lt;a href="https://pypi.org/project/pytest-instafail/" target="_blank" rel="noopener"&gt;pypi.org/project/pytest-instafail&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-metadata&lt;/b&gt;: &lt;a href="https://github.com/pytest-dev/pytest-metadata" target="_blank" rel="noopener"&gt;github.com/pytest-dev/pytest-metadata&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-randomly&lt;/b&gt;: &lt;a href="https://github.com/pytest-dev/pytest-randomly" target="_blank" rel="noopener"&gt;github.com/pytest-dev/pytest-randomly&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-xdist&lt;/b&gt;: &lt;a href="https://pypi.org/project/pytest-xdist/" target="_blank" rel="noopener"&gt;pypi.org/project/pytest-xdist&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-flake8&lt;/b&gt;: &lt;a href="https://github.com/tholo/pytest-flake8" target="_blank" rel="noopener"&gt;github.com/tholo/pytest-flake8&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-timeout&lt;/b&gt;: &lt;a href="https://pypi.org/project/pytest-timeout/" target="_blank" rel="noopener"&gt;pypi.org/project/pytest-timeout&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-spec&lt;/b&gt;: &lt;a href="https://pypi.org/project/pytest-spec/" target="_blank" rel="noopener"&gt;pypi.org/project/pytest-spec&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-picked&lt;/b&gt;: &lt;a href="https://github.com/anapaulagomes/pytest-picked" target="_blank" rel="noopener"&gt;github.com/anapaulagomes/pytest-picked&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-freezegun&lt;/b&gt;: &lt;a href="https://github.com/ktosiek/pytest-freezegun" target="_blank" rel="noopener"&gt;github.com/ktosiek/pytest-freezegun&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;pytest-check&lt;/b&gt;: &lt;a href="https://github.com/okken/pytest-check" target="_blank" rel="noopener"&gt;github.com/okken/pytest-check&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;fluentcheck&lt;/b&gt;: &lt;a href="https://github.com/csparpa/fluentcheck" target="_blank" rel="noopener"&gt;github.com/csparpa/fluentcheck&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/sentry'&gt;Sentry Error Monitoring, Code TALKPYTHON&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#266 Refactoring your code, like magic with Sourcery</title>
+            <link>https://talkpython.fm/episodes/show/266/refactoring-your-code-like-magic-with-sourcery</link>
+            <guid>5d4b27be-7817-421d-95fe-e12bd2126f1d</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/266/refactoring-your-code-like-magic-with-sourcery.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Fri, 29 May 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Refactoring your code, like magic with Sourcery</itunes:title>
+            <itunes:episode>266</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Refactoring your code is a fundamental step on the path to professional and maintainable software. We rarely have the perfect picture of what we need to build when we start writing code and attempts to over plan and overdesign software often lead to analysis paralysis rather than ideal outcomes.</itunes:summary>
+            <itunes:duration>57:05</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Refactoring your code is a fundamental step on the path to professional and maintainable software. We rarely have the perfect picture of what we need to build when we start writing code and attempts to over plan and overdesign software often lead to analysis paralysis rather than ideal outcomes. &lt;br/&gt;
+&lt;br/&gt;
+Join me as I discuss refactoring with Brendan Maginnis and Nick Thapen as well as their tool, Sourcery, to automate refactoring in the popular Python editors.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Guests&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Brendan Maginnis&lt;/b&gt;: &lt;a href="https://twitter.com/brendan_m6s" target="_blank" rel="noopener"&gt;@brendan_m6s&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Nick Thapen&lt;/b&gt;: &lt;a href="https://twitter.com/nthapen" target="_blank" rel="noopener"&gt;@nthapen&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Sourcery&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Sourcery&lt;/b&gt;: &lt;a href="https://sourcery.ai/" target="_blank" rel="noopener"&gt;sourcery.ai&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Sourcery on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/sourceryai" target="_blank" rel="noopener"&gt;@sourceryai&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;VS Code and PyCharm Plugins&lt;/b&gt;: &lt;a href="https://sourcery.ai/editor/" target="_blank" rel="noopener"&gt;sourcery.ai/editor&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;GitHub Bot&lt;/b&gt;: &lt;a href="https://sourcery.ai/github/" target="_blank" rel="noopener"&gt;sourcery.ai/github&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;For an instant demo ⭐ this repo, and Sourcery will refactor your most popular Python repo&lt;/b&gt;: &lt;a href="https://github.com/sourcery-ai/sourcery" target="_blank" rel="noopener"&gt;github.com/sourcery-ai/sourcery&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Python Refactorings article&lt;/b&gt;: &lt;a href="https://sourcery.ai/blog/explaining-refactorings-1/" target="_blank" rel="noopener"&gt;sourcery.ai/blog&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Nuitka&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Talk Python episode&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/172/nuitka-a-full-python-compiler" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Nuitka site&lt;/b&gt;: &lt;a href="https://github.com/Nuitka/Nuitka" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Gilded Rose Kata&lt;/b&gt;: &lt;a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/datadog'&gt;Datadog&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#265 Why is Python slow?</title>
+            <link>https://talkpython.fm/episodes/show/265/why-is-python-slow</link>
+            <guid>b70bbf7b-5ec1-484f-89ec-29087e6add4d</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/265/why-is-python-slow.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Tue, 19 May 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>Why is Python slow?</itunes:title>
+            <itunes:episode>265</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>The debate about whether Python is fast or slow is never-ending. It depends on what you're optimizing for: Server CPU consumption? Developer time? Maintainability? There are many factors. But if we keep our eye on pure computational speed in the Python layer, then yes, Python is slow.</itunes:summary>
+            <itunes:duration>01:03:26</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>The debate about whether Python is fast or slow is never-ending. It depends on what you're optimizing for: Server CPU consumption? Developer time? Maintainability? There are many factors. But if we keep our eye on pure computational speed in the Python layer, then yes, Python is slow. &lt;br/&gt;
+&lt;br/&gt;
+In this episode, we invite Anthony Shaw back on the show. He's here to dig into the reasons Python is computationally slower than many of its peer languages and technologies such as C++ and JavaScript.&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Anthony's CPython Source Book&lt;/b&gt;: &lt;a href="https://realpython.com/products/cpython-internals-book/" target="_blank" rel="noopener"&gt;realpython.com/products&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Anthony's PyCon Talk&lt;/b&gt;: &lt;a href="https://www.youtube.com/watch?v=I4nkgJdVZFA" target="_blank" rel="noopener"&gt;youtube.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;N-body problem example&lt;/b&gt;: &lt;a href="https://github.com/python/pyperformance/blob/master/pyperformance/benchmarks/bm_nbody.py" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;HPy project&lt;/b&gt;: &lt;a href="https://github.com/pyhandle/hpy" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Austin profiler&lt;/b&gt;: &lt;a href="https://github.com/P403n1x87/austin" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Prior episodes:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;#240: A guided tour of the CPython source&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/240/a-guided-tour-of-the-cpython-source-code" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;#214: Dive into CPython 3.8&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/214/dive-into-cpython-3.8-and-beyond" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;#168: 10 Python security holes&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/brilliant'&gt;Brilliant&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/sentry'&gt;Sentry Error Monitoring, Code TALKPYTHON&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#264 10 tips every Flask developer should know</title>
+            <link>https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know</link>
+            <guid>fcb0043e-5afc-4abb-b58a-2702caeeea93</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/264/10-tips-every-flask-developer-should-know.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Tue, 12 May 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>10 tips every Flask developer should know</itunes:title>
+            <itunes:episode>264</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Are you a web developer who uses Flask? It has become the most popular Python web framework. Even if you have used it for years, I bet we cover at least one thing that will surprise you and make your Flask code better.</itunes:summary>
+            <itunes:duration>01:08:49</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>Are you a web developer who uses Flask? It has become the most popular Python web framework. Even if you have used it for years, I bet we cover at least one thing that will surprise you and make your Flask code better. &lt;br/&gt;
+&lt;br/&gt;
+Join me as I speak with Miguel Grinberg about his top 10 list for tips and tricks in the Flask world. They're great!&lt;h2&gt;The 10 tips&lt;/h2&gt;&lt;ol&gt; &lt;li&gt;     No need to use jsonify anymore &lt;/li&gt; &lt;li&gt;         Do not store sensitive information in the user session &lt;/li&gt; &lt;li&gt;     Using a .env file for secrets - python-dotenv &lt;/li&gt; &lt;li&gt;     Windows laptops and Chromebooks are both great Python/Flask development machines with their Linux emulation &lt;/li&gt; &lt;li&gt;     Differences between App context and Request context &lt;/li&gt; &lt;li&gt;     Flask outside of a web server (Celery workers, cron jobs, etc.)  &lt;/li&gt; &lt;li&gt;     Use https://github.com/TypeError/secure.py &lt;/li&gt; &lt;li&gt;     Use httpie instead of curl to send requests to your app &lt;/li&gt; &lt;li&gt;     Flask for asyncio: Quart https://pgjones.gitlab.io/quart/ &lt;/li&gt; &lt;li&gt;     Greenlet frameworks (gevent, eventlet) and Flask &lt;/li&gt; &lt;li&gt;     Blueprints&lt;/li&gt;&lt;/ol&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Miguel on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/miguelgrinberg" target="_blank" rel="noopener"&gt;@miguelgrinberg&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Miguel's blog&lt;/b&gt;: &lt;a href="http://blog.miguelgrinberg.com" target="_blank" rel="noopener"&gt;blog.miguelgrinberg.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;python-dotenv package&lt;/b&gt;: &lt;a href="https://pypi.org/project/python-dotenv/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;httpie package&lt;/b&gt;: &lt;a href="https://httpie.org/" target="_blank" rel="noopener"&gt;httpie.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Quart&lt;/b&gt;: &lt;a href="https://pgjones.gitlab.io/quart/" target="_blank" rel="noopener"&gt;pgjones.gitlab.io&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Talk Python episode on Quart&lt;/b&gt;: &lt;a href="https://talkpython.fm/episodes/show/147/quart-flask-but-3x-faster" target="_blank" rel="noopener"&gt;talkpython.fm&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;secure.py package&lt;/b&gt;: &lt;a href="https://github.com/TypeError/secure.py" target="_blank" rel="noopener"&gt;github.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fm/sentry'&gt;Sentry Error Monitoring, Code TALKPYTHON&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+        <item>
+            <title>#263 SEO for developers</title>
+            <link>https://talkpython.fm/episodes/show/263/seo-for-developers</link>
+            <guid>aee47594-9550-463d-8bf2-7ac9b5a3de2f</guid>
+            <enclosure url="https://talkpython.fm/episodes/download/263/seo-for-developers.mp3"
+                       length="38674429"
+                       type="audio/mpeg"/>
+            <category>Technology</category>
+            <pubDate>Wed, 06 May 2020 00:00:00 -0800</pubDate>
+            <itunes:author>Michael Kennedy (@mkennedy)</itunes:author>
+            <itunes:title>SEO for developers</itunes:title>
+            <itunes:episode>263</itunes:episode>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>As developers and technologists, it's easy to think that powerful and unique ideas will percolate to the top. If we build something amazing, enthusiastic users will find and share our creations.</itunes:summary>
+            <itunes:duration>01:02:35</itunes:duration>
+            <itunes:keywords>
+                python, pycharm, python3, python2, software, programming, web, web development, developer, ide, podcast,
+                software developer, training, course, online, online course, data science, nosql, mongodb, cloud computing
+            </itunes:keywords>
+            <description>As developers and technologists, it's easy to think that powerful and unique ideas will percolate to the top. If we build something amazing, enthusiastic users will find and share our creations. &lt;br/&gt;
+&lt;br/&gt;
+Sometimes this happens. But more often, success is an iceberg, on so many levels. We are going to look at one of those icebergs on this episode. Join me and Cristian Medina as we discuss SEO, search engine optimization, for developers. Some of your search ranking is out of your control, but as you will see, there are many tools in the developer's toolbox that will directly affect your search rank. Let's dive in!&lt;br/&gt;
+&lt;br/&gt;
+&lt;strong&gt;Links from the show&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;div&gt;&lt;b&gt;Cris on Twitter&lt;/b&gt;: &lt;a href="https://twitter.com/tryexceptpass/" target="_blank" rel="noopener"&gt;@tryexceptpass&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;tryexceptpass&lt;/b&gt;: &lt;a href="http://tryexceptpass.org" target="_blank" rel="noopener"&gt;tryexceptpass.org&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;The Beginner's Guide to SEO&lt;/b&gt;: &lt;a href="https://moz.com/beginners-guide-to-seo" target="_blank" rel="noopener"&gt;moz.com&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;webassets Python bundler&lt;/b&gt;: &lt;a href="https://pypi.org/project/webassets/" target="_blank" rel="noopener"&gt;pypi.org&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;PageSpeed Insights&lt;/b&gt;: &lt;a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftraining.talkpython.fm%2F&amp;tab=desktop" target="_blank" rel="noopener"&gt;developers.google.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;JSON-LD decriptors and schema.org&lt;/b&gt;: &lt;a href="https://moz.com/blog/json-ld-for-beginners" target="_blank" rel="noopener"&gt;moz.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Imageoptimz&lt;/b&gt;: &lt;a href="https://imageoptim.com/mac" target="_blank" rel="noopener"&gt;imageoptim.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Google Search Console&lt;/b&gt;: &lt;a href="https://search.google.com/u/1/search-console" target="_blank" rel="noopener"&gt;search.google.com&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Twitter Card Validator&lt;/b&gt;: &lt;a href="https://cards-dev.twitter.com/validator" target="_blank" rel="noopener"&gt;cards-dev.twitter.com&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;
+&lt;strong&gt;Sponsors&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;a href='https://talkpython.fmhttps://kite.com/?utm_source=talkpythontome?utm_medium=referral?&amp;utm_campaign=may06'&gt;Kite AI Autocomplete&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/linode'&gt;Linode&lt;/a&gt;&lt;br&gt;
+&lt;a href='https://talkpython.fm/training'&gt;Talk Python Training&lt;/a&gt;</description>
+        </item>
+
+    </channel>
+</rss>
